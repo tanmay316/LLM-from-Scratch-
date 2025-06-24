@@ -1,4 +1,4 @@
-# Language Model (SLM) - 30M Parameters
+![Screenshot 2025-06-23 191655](https://github.com/user-attachments/assets/c8eef0e9-41f4-4697-9320-59b37bd41dc2)# Language Model (SLM) - 30M Parameters
 
 A GPT-style Small Language Model built from scratch using PyTorch, trained on the TinyStories dataset. This project demonstrates how to build, train, and deploy a compact language model capable of generating coherent text.
 
@@ -12,6 +12,10 @@ A GPT-style Small Language Model built from scratch using PyTorch, trained on th
 - **Vocabulary Size**: 50,257 tokens
 
 ## 🎯 Model Architecture
+
+![Screenshot 2025-06-23 191655](https://github.com/user-attachments/assets/c235a5b8-c9bf-4813-be89-7eb6f988cbf9)
+![Screenshot 2025-06-24 134741](https://github.com/user-attachments/assets/3685ab0a-c7c9-419f-bf87-72ed5d91cfbd)
+
 
 ```
 Configuration:
